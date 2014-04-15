@@ -1,0 +1,32 @@
+﻿Build started 15/04/2014 16:20:37.
+     1>Project "C:\Users\amcnic201\Desktop\GP_CW 0.6.6\GP_CW 0.6.6\GP_CW 0.6\GP_CW 0.5\GP_CW 0.4.5\GP_CW 0.4\GP_CW 0.2\GP_CW\GP_CW.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\GP_CW.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"d3d9.lib d3dx9.lib" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\amcnic201\Desktop\GP_CW 0.6.6\GP_CW 0.6.6\GP_CW 0.6\GP_CW 0.5\GP_CW 0.4.5\GP_CW 0.4\GP_CW 0.2\Debug\GP_CW.exe" /NOLOGO d3d9.lib d3dx9.lib DXUTOpt.lib winmm.lib dxerr.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\amcnic201\Desktop\GP_CW 0.6.6\GP_CW 0.6.6\GP_CW 0.6\GP_CW 0.5\GP_CW 0.4.5\GP_CW 0.4\GP_CW 0.2\Debug\GP_CW.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\amcnic201\Desktop\GP_CW 0.6.6\GP_CW 0.6.6\GP_CW 0.6\GP_CW 0.5\GP_CW 0.4.5\GP_CW 0.4\GP_CW 0.2\Debug\GP_CW.lib" /MACHINE:X86 Debug\GameResources.res
+         Debug\cBalloon.obj
+         Debug\cD3DManager.obj
+         Debug\cD3DXFont.obj
+         Debug\cD3DXSpriteMgr.obj
+         Debug\cD3DXTexture.obj
+         Debug\cExplosion.obj
+         Debug\cPLayer.obj
+         Debug\cSprite.obj
+         Debug\cXAudio.obj
+         Debug\main.obj
+         DXUT.lib
+         DXUTOpt.lib
+         GP_CW.vcxproj -> C:\Users\amcnic201\Desktop\GP_CW 0.6.6\GP_CW 0.6.6\GP_CW 0.6\GP_CW 0.5\GP_CW 0.4.5\GP_CW 0.4\GP_CW 0.2\Debug\GP_CW.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\GP_CW.unsuccessfulbuild".
+         Touching "Debug\GP_CW.lastbuildstate".
+     1>Done Building Project "C:\Users\amcnic201\Desktop\GP_CW 0.6.6\GP_CW 0.6.6\GP_CW 0.6\GP_CW 0.5\GP_CW 0.4.5\GP_CW 0.4\GP_CW 0.2\GP_CW\GP_CW.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.49
